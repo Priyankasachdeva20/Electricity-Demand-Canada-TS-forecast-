@@ -1,4 +1,4 @@
-
+# Path to dashboard : https://public.tableau.com/profile/zl.mma#!/vizhome/Generation_Arima/DB_Arima
 
 setwd("P:/Courses/MMA 860 - Alexander Scott Acquisition and Data Management/Project/TS/Ontario_Demand")
 library(readxl)
